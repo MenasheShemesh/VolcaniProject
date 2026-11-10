@@ -1,0 +1,36 @@
+.close-button {
+    margin-top: -10px;
+    margin-right: -10px;
+    background-color: transparent;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+textarea {
+    height: 100px;
+}
+
+.required {
+    content: "*";
+}
+
+.title {
+    margin-top: -20px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+::ng-deep.ng-select-container {
+    background-color: rgba(0, 0, 0, .04) !important
+}

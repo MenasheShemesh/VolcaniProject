@@ -1,0 +1,12 @@
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\Infrastructure\bin\Debug\Infrastructure.dll
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\Infrastructure\bin\Debug\Infrastructure.pdb
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\Infrastructure\obj\Debug\Infrastructure.dll
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\Infrastructure\obj\Debug\Infrastructure.pdb
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\Infrastructure\bin\Debug\Infrastructure.dll
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\Infrastructure\bin\Debug\Infrastructure.pdb
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\Infrastructure\obj\Debug\Infrastructure.dll
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\Infrastructure\obj\Debug\Infrastructure.pdb

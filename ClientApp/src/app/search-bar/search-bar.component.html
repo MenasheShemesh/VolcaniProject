@@ -1,0 +1,17 @@
+<form [formGroup]="searchForm" (ngSubmit)="submitSearch()">
+    <mat-card class="space-around container">
+
+        <!-- <ng-select [openOnEnter]="false" [searchable]="false" placeholder="סטטוס הודעה" formControlName="status">
+            <ng-option *ngFor="let status of messageStatuses|keyvalue" [value]="status.key">{{status.value}}</ng-option>
+        </ng-select> -->
+        <mat-form-field appearance="fill">
+            <mat-label>סטטוס הודעה</mat-label>
+            <mat-select formControlName="status">
+                <mat-option *ngFor="let status of messageStatuses|keyvalue" [value]="status.key">{{status.value}}</mat-option>
+            </mat-select>
+        </mat-form-field>
+        <button mat-raised-button color="primary" type="submit">חפש</button>
+    </mat-card>
+
+
+</form>

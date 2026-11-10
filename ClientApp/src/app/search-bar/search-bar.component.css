@@ -1,0 +1,18 @@
+::ng-deep.ng-select-container{
+   background-color: rgba(0,0,0,.04)!important
+}
+ng-select{
+    width:200px;
+}
+::ng-deep.mat-form-field-appearance-fill .mat-form-field-flex{
+    padding-top: 4.5px!important;
+}
+.container{
+    /* border-color: beige;
+    border-style: groove; */
+    background-color: lavender;
+    align-items: end;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 30px;
+}

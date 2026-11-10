@@ -1,0 +1,57 @@
+<div>
+    <button mat-mini-fab class="close-button" mat-dialog-close><mat-icon>close</mat-icon></button>
+    <div class="center-content title">
+        <h1>פרטי הודעה</h1>
+    </div>
+    <form [formGroup]="messageForm" (submit)="submitMessage()">
+        <div class="container">
+            <div class="vertical">                
+                <mat-form-field appearance="fill">
+                    <mat-label>תוכן</mat-label>
+                    <textarea matInput formControlName="Content" required></textarea>
+
+                </mat-form-field>
+                <div style="direction: ltr;" class="container">
+                    <div style="margin-right: 10px; width: 100px;">
+                        <ng-select maxlength="3" class="required" notFoundText="" style="direction: rtl;" required placeholder="קידומת" formControlName="PhonePrefix" (keypress)="numberKeyPress($event)">
+                            <ng-option *ngFor="let prefix of prefixes" [value]="prefix">{{prefix}}</ng-option>
+                        </ng-select>
+                    </div>
+                    <mat-form-field appearance="fill">
+                        <mat-label>טלפון</mat-label>
+                        <input maxlength="7" matInput required formControlName="PhoneNumber" (keypress)="numberKeyPress($event)">
+                    </mat-form-field>
+                </div>
+
+            </div>
+            <div class="vertical">
+                <mat-form-field appearance="fill">
+                    <mat-label>שם פרטי</mat-label>
+                    <input matInput formControlName="FirstName" required>
+                </mat-form-field>
+                <mat-form-field appearance="fill">
+                    <mat-label>שם משפחה</mat-label>
+                    <input matInput formControlName="LastName" required>
+                </mat-form-field>
+                <mat-form-field appearance="fill">
+                    <mat-label>ישוב</mat-label>
+                    <input matInput formControlName="City" required>
+                </mat-form-field>
+                <mat-form-field appearance="fill">
+                    <mat-label>רחוב</mat-label>
+                    <input matInput formControlName="Street" required>
+                </mat-form-field>
+                <mat-form-field appearance="fill">
+                    <mat-label>מספר בית</mat-label>
+                    <input type="text" maxlength="14" matInput formControlName="HouseNumber" required>
+                </mat-form-field>
+            </div>
+
+        </div>
+        <div class="center-content">
+            <button *ngIf="messageForm.valid" mat-raised-button color="primary" type="submit">שמור הודעה</button>
+        </div>
+    </form>
+
+
+</div>

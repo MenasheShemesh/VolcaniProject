@@ -1,0 +1,15 @@
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Users\USER\Documents\Visual Studio 2019\Projects\IAIProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\DataAccessLayer\bin\Debug\Infrastructure.dll
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\DataAccessLayer\bin\Debug\Infrastructure.pdb
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Users\USER\Documents\Visual Studio 2019\Projects\VolcaniProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
